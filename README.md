@@ -221,6 +221,12 @@ def normalize_coordinates(self, landmark, frame_shape):
 - User-centered design thinking for accessibility technology
 
 ---
+---
+
+## 🙌 Acknowledgments
+
+- This project was inspired by a tutorial from **Murtaza's Workshop**, which guided the development of gesture-based virtual keyboards using OpenCV and cvzone.
+
 
 ## 👩‍💻 About the Developer
 
